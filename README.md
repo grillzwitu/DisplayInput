@@ -7,4 +7,5 @@ This repo is part of the stage 2 tasks for [Zuri Internship](https://internship.
 ## Usage and Description
 
 ![App Demo](displayInput.gif)
+
 Try the app [here](https://appetize.io/app/fyye8jtvzcnx1qmg8hexpzv1nw?device=nexus5&scale=75&orientation=portrait&osVersion=8.1), install on an android device.
